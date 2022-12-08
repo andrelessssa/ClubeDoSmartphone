@@ -52,30 +52,6 @@ body {
     justify-content: space-between;
 }
 
-.login-button {
-    display: flex;
-    align-items: center;
-}
-
-.login-button button {
-    border: none;
-    width: 80px;
-    background-color: #DBAD24;
-    padding: 0.4rem;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-.login-button button:hover{
-    background-color: #E8881A;
-}
-
-.login-button button a {
-    text-decoration: none;
-    font-weight: 500;
-    color: #fff;
-}
-
 .form-header h1::after {
     content: '';
     display: block;
